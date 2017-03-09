@@ -1,2 +1,2 @@
 # work-in-progress
-the book I (maybe) will probably (not) write.
+The book I (maybe) will probably (not) write.
